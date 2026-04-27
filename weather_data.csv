@@ -4,18 +4,18 @@ zip_code,city,region,temp_f,condition
 60601,Chicago,Illinois,59.4,Light rain
 98101,Seattle,Washington,52.0,Overcast
 33101,Miami,Florida,84.9,Partly cloudy
-77001,Houston,Texas,84.6,Mist
+77001,Houston,Texas,84.9,Partly cloudy
 85001,Phoenix,Arizona,72.0,Sunny
-19101,Philadelphia,Pennsylvania,66.9,Sunny
-78201,San Antonio,Texas,79.0,Overcast
+19101,Philadelphia,Pennsylvania,66.9,Partly cloudy
+78201,San Antonio,Texas,80.1,Mist
 92101,San Diego,California,64.9,Partly cloudy
 75201,Dallas,Texas,84.9,Partly cloudy
 95101,San Jose,California,57.0,Partly cloudy
-78701,Austin,Texas,82.0,Mist
-32099,Jacksonville,Florida,71.1,Overcast
+78701,Austin,Texas,82.9,Overcast
+32099,Jacksonville,Florida,70.0,Overcast
 43215,Columbus,Ohio,72.0,Partly cloudy
 46201,Indianapolis,Indiana,71.1,Sunny
 28201,Charlotte,North Carolina,64.9,Sunny
 94102,San Francisco,California,57.9,Partly cloudy
-80201,Denver,Colorado,37.8,Overcast
+80201,Denver,Colorado,43.0,Partly cloudy
 20001,Washington,District of Columbia,66.0,Partly cloudy
