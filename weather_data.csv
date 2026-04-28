@@ -1,21 +1,21 @@
 zip_code,city,region,temp_f,condition
-90045,Los Angeles,California,63.0,Partly cloudy
-10001,New York,New York,66.0,Sunny
-60601,Chicago,Illinois,59.4,Light rain
-98101,Seattle,Washington,52.0,Overcast
-33101,Miami,Florida,84.9,Partly cloudy
-77001,Houston,Texas,84.9,Partly cloudy
-85001,Phoenix,Arizona,72.0,Sunny
-19101,Philadelphia,Pennsylvania,66.9,Partly cloudy
-78201,San Antonio,Texas,80.1,Mist
-92101,San Diego,California,64.9,Partly cloudy
-75201,Dallas,Texas,84.9,Partly cloudy
-95101,San Jose,California,57.0,Partly cloudy
-78701,Austin,Texas,82.9,Overcast
-32099,Jacksonville,Florida,70.0,Overcast
-43215,Columbus,Ohio,72.0,Partly cloudy
-46201,Indianapolis,Indiana,71.1,Sunny
-28201,Charlotte,North Carolina,64.9,Sunny
-94102,San Francisco,California,57.9,Partly cloudy
-80201,Denver,Colorado,43.0,Partly cloudy
-20001,Washington,District of Columbia,66.0,Partly cloudy
+90045,Los Angeles,California,54.0,Partly cloudy
+10001,New York,New York,57.9,Sunny
+60601,Chicago,Illinois,51.1,Overcast
+98101,Seattle,Washington,48.0,Light rain
+33101,Miami,Florida,79.0,Sunny
+77001,Houston,Texas,75.4,Mist
+85001,Phoenix,Arizona,62.1,Sunny
+19101,Philadelphia,Pennsylvania,57.0,Partly cloudy
+78201,San Antonio,Texas,77.7,Mist
+92101,San Diego,California,54.0,Partly cloudy
+75201,Dallas,Texas,77.5,Mist
+95101,San Jose,California,48.9,Partly Cloudy
+78701,Austin,Texas,77.7,Mist
+32099,Jacksonville,Florida,69.1,Overcast
+43215,Columbus,Ohio,57.9,Light drizzle
+46201,Indianapolis,Indiana,59.5,Overcast
+28201,Charlotte,North Carolina,54.0,Light rain
+94102,San Francisco,California,55.0,Partly cloudy
+80201,Denver,Colorado,38.5,Mist
+20001,Washington,District of Columbia,55.0,Light rain
